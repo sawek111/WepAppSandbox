@@ -1,0 +1,31 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+WebApp.API/[Dd]ebug/
+WebApp.API/[Dd]ebugPublic/
+WebApp.API/[Rr]elease/
+WebApp.API/[Rr]eleases/
+WebApp.API/x64/
+WebApp.API/x86/
+WebApp.API/build/
+WebApp.API/bld/
+WebApp.API/[Bb]in/
+WebApp.API/[Oo]bj/
+WebApp.API/[Oo]ut/
+WebApp.API/msbuild.log
+WebApp.API/msbuild.err
+WebApp.API/msbuild.wrn
